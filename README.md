@@ -1,8 +1,7 @@
-# print("Hello Repositories!");
+![Hello](Data/Images/Hello-Banner.png)
 
-I am [Shon](https://bit.ly/m/shon) and I love ☕coffee and 🌶️spicy food.  I am a
- UiPath RPA developer.  There are many RPA training supplements and projects in
- this repository in both C# and VB.NET.
+Hello, I love ☕coffee and 🌶️spicy food. There are many RPA training
+supplements and projects in this repository in both C# and VB.NET.
 
  <h5>
    <span style="color: #CCCCCC;">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." ― Martin Fowler
