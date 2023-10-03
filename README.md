@@ -8,8 +8,8 @@ supplements and projects in this repository in both C# and VB.NET.
    </span>
 </h5>
 
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=shonharsh&show_icons=true&theme=dark#gh-dark-mode-only" alt="Statistics" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shonharsh&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" alt="Top Languages" height="195" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shonharsh&show_icons=true&theme=dark#gh-dark-mode-only)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shonharsh&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" alt="Top Languages" height="195" />
 
 > [!WARNING]
 > [![Views](https://visitcount.itsvg.in/api?id=ShonHarsh&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
