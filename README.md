@@ -2,8 +2,8 @@
 
 Hello, I am Shon and this is my base GitHub page.
 
-![shonharsh github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=shonharsh)
-![shonharsh github-trophies](https://stats.dooboo.io/api/github-trophies?login=shonharsh)
+[![shonharsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shonharsh)](https://github.com/shonharsh/github-readme-stats)
+
 
 ## Skills
 ##### Database ![Database](https://skillicons.dev/icons?i=mysql,postgres) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" />
