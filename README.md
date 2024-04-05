@@ -6,7 +6,3 @@ Hello, I am Shon and this is my base GitHub page.
 
 ## Webpage
 https://shonharsh.github.io/curriculum-vitae/index.html
-
-## Credits
-- [Devicon](https://devicon.dev/)
-- [Skill Icons](https://github.com/tandpfun/skill-icons)
