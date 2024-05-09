@@ -18,4 +18,4 @@ Hello, I am [Shon](https://bit.ly/m/shon) and this is my base GitHub page.  I am
 
 ##### Automation Developer Professional
 
-##### [RPA Developer Foundation](https://github.com/ShonHarsh/Pages/RPA-Developer-Foundation.md)
+##### RPA Developer Foundation [[C#](https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement)] [[VB](https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement-VB)] [[Windows Legacy](https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement-WindowsLegacy)]
