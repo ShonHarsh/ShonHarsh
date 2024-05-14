@@ -18,7 +18,7 @@ Hello, I am [Shon](https://bit.ly/m/shon) and this is my base GitHub page.  I am
 
 [![shonharsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shonharsh&show_icons=true&theme=dark#gh-dark-mode-only)](https://bit.ly/m/shon)
 
-> [!IMPORTANTP]
+> [!IMPORTANT]
 > [Contact me](shon.harsh@gmail.com) if you have a request, question, or comments.  Please reach out and lets connect!
 
 ### UiPath Academy Class Practice Projects
