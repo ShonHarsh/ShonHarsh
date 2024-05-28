@@ -18,7 +18,8 @@ I am [Shon](https://bit.ly/m/shon) and this is my base GitHub page.  I am a
 > - Revisiting C# and Python.
 > - Introduction to Blue Prism and Automation Anywhere.
 
-[![shonharsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shonharsh&show_icons=true&theme=dark#gh-dark-mode-only)](https://bit.ly/m/shon)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shonharsh&show_icons=true&theme=dark#gh-dark-mode-only)](https://bit.ly/m/shon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shonharsh&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)](https://bit.ly/m/shon)
 
 > [!IMPORTANT]
 > [Contact me](shon.harsh@gmail.com) if you have a request, question, or
