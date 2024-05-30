@@ -1,6 +1,6 @@
-# Hello Repositories!
+# print("Hello Repositories!");
 
-I am [Shon](https://bit.ly/m/shon) and I love coffee and spicy food.  I am a
+I am [Shon](https://bit.ly/m/shon) and I love ☕coffee and 🌶️spicy food.  I am a
  UiPath RPA developer.  There are many RPA training supplements and projects in
  this repository in both C# and VB.NET.
 
@@ -8,18 +8,16 @@ I am [Shon](https://bit.ly/m/shon) and I love coffee and spicy food.  I am a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shonharsh&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)](https://bit.ly/m/shon)
 
 > [!NOTE]
-> Current Diversions:
-> - ~~Rewriting and updating the RPA Developer Foundation
- practice projects in C# and VB.Net.~~
-> - Completing a course on LINQ
-> - Studying for the UiPath Automation Developer Professional Certification
-> - Studying Git & GitHub for certifications
-> - Introduction to Blue Prism and Automation Anywhere.
+> Current Diversions:<br />
+> 🔗 Completing a course on LINQ<br />
+> 📚 Studying for the UiPath Automation Developer Professional Certification<br />
+> ⚙️ Studying Git & GitHub for certifications<br />
+> 🤖 Introduction to Blue Prism and Automation Anywhere.
 
-[![](https://visitcount.itsvg.in/api?id=ShonHarsh&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![Views](https://visitcount.itsvg.in/api?id=ShonHarsh&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 > [!IMPORTANT]
-> [Contact me](shon.harsh@gmail.com) if you have a request, question, or
+> ✉️ [Contact me](https://bit.ly/m/shon) if you have a request, question, or
  comments.  Please reach out and lets connect!
 
 > [!TIP]
@@ -32,7 +30,7 @@ I am [Shon](https://bit.ly/m/shon) and I love coffee and spicy food.  I am a
  ### UiPath Learning Plan Projects
 
  <details>
-   <summary><h3>Automation Explorer</h3></summary>
+   <summary><h3>Automation Explorer [ ↕️ ]</h3></summary>
 
  ##### S01 Explore automation development with UiPath Studio
  - S01P01-StudioFirstRun [[C#](https://github.com/ShonHarsh/UiPath-AE-S01P01-StudioFirstRun)] [[VB](https://github.com/ShonHarsh/UiPath-AE-S01P01-StudioFirstRun-VB)]
@@ -60,7 +58,7 @@ I am [Shon](https://bit.ly/m/shon) and I love coffee and spicy food.  I am a
  </details>
 
  <details>
-   <summary><h3>Automation Developer Associate</h3></summary>
+   <summary><h3>Automation Developer Associate [ ↕️ ]</h3></summary>
 
    //Still to be developed
 
@@ -108,7 +106,7 @@ I am [Shon](https://bit.ly/m/shon) and I love coffee and spicy food.  I am a
  </details>
 
  <details>
-   <summary><h3>Automation Developer Professional</h3></summary>
+   <summary><h3>Automation Developer Professional [ ↕️ ]</h3></summary>
 
  //Still to be developed
 
@@ -136,7 +134,7 @@ I am [Shon](https://bit.ly/m/shon) and I love coffee and spicy food.  I am a
  </details>
 
  <details>
-   <summary><h3>RPA Developer Foundation</h3></summary>
+   <summary><h3>RPA Developer Foundation [ ↕️ ]</h3></summary>
 
  ##### S01 Get Started With RPA Development
 
