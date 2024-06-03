@@ -4,6 +4,16 @@ I am [Shon](https://bit.ly/m/shon) and I love ☕coffee and 🌶️spicy food.  
  UiPath RPA developer.  There are many RPA training supplements and projects in
  this repository in both C# and VB.NET.
 
+ <h5>
+   <span style="color: #CCCCCC;">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+   ― Martin Fowler
+   </span>
+   <span>
+   </span>
+</h5>
+
+<br />
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shonharsh&show_icons=true&theme=dark#gh-dark-mode-only)](https://bit.ly/m/shon)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shonharsh&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)](https://bit.ly/m/shon)
 
@@ -20,12 +30,15 @@ I am [Shon](https://bit.ly/m/shon) and I love ☕coffee and 🌶️spicy food.  
 > ✉️ [Contact me](https://bit.ly/m/shon) if you have a request, question, or
  comments.  Please reach out and lets connect!
 
-> [!TIP]
+> [!WARNING]
 > Since I develop many UiPath projects in both C# and VB.NET, I started to use
  Hungarian Notation for the VB projects and standard Microsoft recommendations
  for C#.  It helps me differentiate projects and reduces the number of errors in
  the .xaml from activity cross pollination as I often have many IDE's open at
  once.
+
+> [!NOTE]
+> **Expand the sections below to see the UiPath projects for each learning plan.**
 
  ### UiPath Learning Plan Projects
 
