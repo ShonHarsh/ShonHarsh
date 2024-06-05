@@ -5,10 +5,7 @@ I am [Shon](https://bit.ly/m/shon) and I love ☕coffee and 🌶️spicy food.  
  this repository in both C# and VB.NET.
 
  <h5>
-   <span style="color: #CCCCCC;">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
-   ― Martin Fowler
-   </span>
-   <span>
+   <span style="color: #CCCCCC;">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." ― Martin Fowler
    </span>
 </h5>
 
@@ -127,9 +124,9 @@ I am [Shon](https://bit.ly/m/shon) and I love ☕coffee and 🌶️spicy food.  
 
  ##### S02 Introduction to Robotic Enterprise Framework
 
- ##### S03 Building a REFramework Project with Orchestrator Queues
+ ##### S03 Building a REFramework Project with Orchestrator Queues [[C#](https://github.com/ShonHarsh/UiPath-REFramework-QueueData)] [[VB](https://github.com/ShonHarsh/UiPath-REFramework-QueueData-VB)]
 
- ##### S04 Building a REFramework Project with Tabular Data
+ ##### S04 Building a REFramework Project with Tabular Data [[C#](https://github.com/ShonHarsh/UiPath-REFramework-TabularData)] [[VB](https://github.com/ShonHarsh/UiPath-REFramework-TabularData-VB)] 
 
  ##### S05 Practice with REFramework
 
