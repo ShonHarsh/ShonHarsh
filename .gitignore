@@ -1,19 +1,207 @@
-##################################
-### UiPath Ignore Folders      ###
-##################################
-## Ignore .local folder
-## Ignore .objects folder
-## Ignore .settings folder
-## Ignore .tmh folder
-
+!**/[Pp]ackages/build/
+!.axoCover/settings.json
+!.vscode/*.code-snippets
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!?*.[Cc]ache/
+$RECYCLE.BIN/
+$tf/
+*- [Bb]ackup ([0-9]).rdl
+*- [Bb]ackup ([0-9][0-9]).rdl
+*- [Bb]ackup.rdl
+**/*.DesktopClient/GeneratedArtifacts
+**/*.DesktopClient/ModelManifest.xml
+**/*.HTMLClient/GeneratedArtifacts
+**/*.Server/GeneratedArtifacts
+**/*.Server/ModelManifest.xml
+**/*.sln.ide
+**/[Pp]ackages/*
+**/App_Data/*.ldf
+**/App_Data/*.mdf
+**/App_Data/*.sdf
+**/CVS/
+**/node_modules/*
+**/wwwroot/*
+*.[Cc]ache
+*.[Pp]ublish.xml
+*.[Rr]e[Ss]harper
+*.appx
+*.appxbundle
+*.appxupload
+*.aps
+*.azurePubxml
+*.bim.layout
+*.bim_*.settings
+*.binlog
+*.btm.cs
+*.btp.cs
+*.build.csdef
+*.cab
+*.Cache
+*.cachefile
+*.code-workspace
+*.coverage
+*.coveragexml
+*.dbmdl
+*.dbproj.schemaview
+*.dotCover
+*.DotSettings.user
+*.dsp
+*.dsw
+*.e2e
+*.feature.cs
+*.feature.xlsx.*
+*.GhostDoc.xml
+*.gpState
+*.ilk
+*.iobj
+*.ipdb
+*.iws
+*.jfm
+*.jmconfig
+*.ldf
+*.log
+*.mdf
+*.meta
+*.mm.*
+*.msi
+*.msix
+*.msm
+*.msp
+*.ncb
+*.ndf
+*.nuget.props
+*.nuget.targets
+*.nupkg
+*.nvuser
+*.obj
+*.odx.cs
+*.opendb
+*.opensdf
+*.opt
+*.orig
+*.pch
+*.pdb
+*.pfx
+*.pgc
+*.pgd
+*.pidb
+*.plg
+*.psess
+*.Publish.xml
+*.publishproj
+*.publishsettings
+*.pubxml
+*.pyc
+*.rdl.data
+*.rptproj.bak
+*.rptproj.rsuser
+*.rsp
+*.rsuser
+*.sap
+*.sbr
+*.scc
+*.sdf
+*.sln.docstates
+*.sln.iml
+*.snupkg
+*.Specs_*.html
+*.suo
+*.svclog
+*.swo
+*.swp
+*.tlb
+*.tlh
+*.tli
+*.tlog
+*.tmp
+*.tmp_proj
+*.tss
+*.txt~
+*.user
+*.userosscache
+*.userprefs
+*.vbp
+*.vbw
+*.vc.db
+*.VC.db
+*.vc.vc.opendb
+*.VC.VC.opendb
+*.VisualState.xml
+*.vsix
+*.vsp
+*.vspscc
+*.vspx
+*.vssscc
+*.xsd.cs
+*_h.h
+*_i.c
+*_p.c
+*_wpftmp.csproj
+*~
+.*crunch*.local.xml
+.~lock.*
+.axoCover/*
+.builds
+.cr/personal
+.DS_Store
+.exercism
+.fake/
+.history
+.history/
+.idea/
+.idea/$CACHE_FILE$
+.idea/**/aws.xml
+.idea/**/contentModel.xml
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/dataSources/
+.idea/**/dbnavigator.xml
+.idea/**/dictionaries
+.idea/**/dynamic.xml
+.idea/**/gradle.xml
+.idea/**/libraries
+.idea/**/markdown-navigator.xml
+.idea/**/markdown-navigator/
+.idea/**/markdown-navigator-enh.xml
+.idea/**/mongoSettings.xml
+.idea/**/shelf
+.idea/**/sonarIssues.xml
+.idea/**/sonarlint/
+.idea/**/sqlDataSources.xml
+.idea/**/tasks.xml
+.idea/**/uiDesigner.xml
+.idea/**/usage.statistics.xml
+.idea/**/workspace.xml
+.idea/caches/build_file_checksums.ser
+.idea/codestream.xml
+.idea/httpRequests
+.idea/replstate.xml
+.idea/sonarlint/
+.idea_modules/
+.ionide
+.ionide/
 .local
 .local/*
+.localhistory/
+.mfractor/
+.ntvs_analysis.dat
 .objects
 .objects/*
+.paket/paket.exe
+.sass-cache
+.sass-cache/
 .settings
 .settings/*
+.svn
 .tmh
 .tmh/*
+.vs/
+.vscode/
+.vscode/*
+.vshistory/
 /.local
 /.local/*
 /.objects
@@ -22,144 +210,99 @@
 /.settings/*
 /.tmh
 /.tmh/*
-~*
-
-# Folder config file
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]in/
+[Bb]uild[Ll]og.*
+[Dd]ebug/
+[Dd]ebugPS/
+[Dd]ebugPublic/
 [Dd]esktop.ini
-
-##################################
-### OTHER IDE and TEMP files   ###
-##################################
-
-##################################
-### Using https://gitignore.io ###
-##################################
-
-### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
-
-# Local History for Visual Studio Code
-.history/
-
-# Built Visual Studio Code Extensions
-*.vsix
-
-### VisualStudioCode Patch ###
-# Ignore all local history of files
-.history
-.ionide
-
-
-### PhpStorm ###
-# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
-# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
-
-# User-specific stuff
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/**/usage.statistics.xml
-.idea/**/dictionaries
-.idea/**/shelf
-
-# AWS User-specific
-.idea/**/aws.xml
-
-# Generated files
-.idea/**/contentModel.xml
-
-# Sensitive or high-churn files
-.idea/**/dataSources/
-.idea/**/dataSources.ids
-.idea/**/dataSources.local.xml
-.idea/**/sqlDataSources.xml
-.idea/**/dynamic.xml
-.idea/**/uiDesigner.xml
-.idea/**/dbnavigator.xml
-
-# Gradle
-.idea/**/gradle.xml
-.idea/**/libraries
-
-# Gradle and Maven with auto-import
-# When using Gradle or Maven with auto-import, you should exclude module files,
-# since they will be recreated, and may cause churn.  Uncomment if using
-# auto-import.
-# .idea/artifacts
-# .idea/compiler.xml
-# .idea/jarRepositories.xml
-# .idea/modules.xml
-# .idea/*.iml
-# .idea/modules
-# *.iml
-# *.ipr
-
-# CMake
-cmake-build-*/
-
-# Mongo Explorer plugin
-.idea/**/mongoSettings.xml
-
-# File-based project format
-*.iws
-
-# IntelliJ
-out/
-
-# mpeltonen/sbt-idea plugin
-.idea_modules/
-
-# JIRA plugin
+[Ee]xpress/
+[Ll]og/
+[Ll]ogs/
+[Oo]bj/
+[Rr]elease/
+[Rr]eleasePS/
+[Rr]eleases/
+[Ss]tyle[Cc]op.*
+[Tt]est[Rr]esult*/
+[Ww][Ii][Nn]32/
+__pycache__/
+_Chutzpah*
+_NCrunch_*
+_pkginfo.txt
+_Pvt_Extensions
+_Pvt_Extensions/
+_ReSharper*/
+_TeamCity*
+_UpgradeReport_Files/
+~$*
+AppData/
+AppPackages/
+artifacts/
+ASALocalRun/
 atlassian-ide-plugin.xml
-
-# Cursive Clojure plugin
-.idea/replstate.xml
-
-# SonarLint plugin
-.idea/sonarlint/
-
-# Crashlytics plugin (for Android Studio and IntelliJ)
+AutoTest.Net/
+Backup*/
+BenchmarkDotNet.Artifacts/
+bld/
+BundleArtifacts/
+ClientBin/
+cmake-build-*/
 com_crashlytics_export_strings.xml
+coverage*.info
+coverage*.json
+coverage*.xml
 crashlytics.properties
 crashlytics-build.properties
+csx
+csx/
+Desktop.ini
+dlldata.c
+DocProject/buildhelp/
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/*.HxC
+DocProject/Help/*.HxT
+DocProject/Help/html
+DocProject/Help/Html2
+ecf/
+ehthumbs.db
 fabric.properties
-
-# Editor-based Rest Client
-.idea/httpRequests
-
-# Android studio 3.1+ serialized cache file
-.idea/caches/build_file_checksums.ser
-
-### PhpStorm Patch ###
-# Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
-
-# *.iml
-# modules.xml
-# .idea/misc.xml
-# *.ipr
-
-# Sonarlint plugin
-# https://plugins.jetbrains.com/plugin/7973-sonarlint
-.idea/**/sonarlint/
-
-# SonarQube Plugin
-# https://plugins.jetbrains.com/plugin/7238-sonarqube-community-plugin
-.idea/**/sonarIssues.xml
-
-# Markdown Navigator plugin
-# https://plugins.jetbrains.com/plugin/7896-markdown-navigator-enhanced
-.idea/**/markdown-navigator.xml
-.idea/**/markdown-navigator-enh.xml
-.idea/**/markdown-navigator/
-
-# Cache file creation bug
-# See https://youtrack.jetbrains.com/issue/JBR-2257
-.idea/$CACHE_FILE$
-
-# CodeStream plugin
-# https://plugins.jetbrains.com/plugin/12206-codestream
-.idea/codestream.xml
+FakesAssemblies/
+FodyWeavers.xsd
+Generated\ Files/
+Generated_Code/
+GeneratedArtifacts/
+healthchecksdb
+Icon?
+ipch/
+MigrationBackup/
+ModelManifest.xml
+modulesbin/
+mono_crash.*
+nCrunchTemp_*
+node_modules/
+nunit-*.xml
+OpenCover/
+orleans.codegen.cs
+out/
+Package.StoreAssociation.xml
+paket-files/
+project.fragment.lock.json
+project.lock.json
+publish/
+PublishScripts/
+rcf/
+ScaffoldingReadMe.txt
+ServiceFabricBackup/
+StyleCopReport.xml
+tempbin/
+TestResult.xml
+Thumbs.db
+UpgradeLog*.htm
+UpgradeLog*.XML
+x64/
+x86/
