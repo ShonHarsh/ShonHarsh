@@ -1,8 +1,7 @@
-# print("Hello Repositories!");
+![Hello](Data/Images/Hello-Banner.png)
 
-I am [Shon](https://bit.ly/m/shon) and I love ☕coffee and 🌶️spicy food.  I am a
- UiPath RPA developer.  There are many RPA training supplements and projects in
- this repository in both C# and VB.NET.
+Hello, I love ☕coffee and 🌶️spicy food. There are many RPA training
+supplements and projects in this repository in both C# and VB.NET.
 
  <h5>
    <span style="color: #CCCCCC;">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." ― Martin Fowler
@@ -24,5 +23,25 @@ I am [Shon](https://bit.ly/m/shon) and I love ☕coffee and 🌶️spicy food.  
 > [!WARNING]
 > **Code Lists**
 
-
-[![Code Exercises](Data/Images/ImageLink-CodeExercises.png)](https://github.com/stars/ShonHarsh/lists/code-exercises)[![Common Lisp](Data/Images/ImageLink-CommonLisp.png)](https://github.com/stars/ShonHarsh/lists/common-lisp)[![CSharp](Data/Images/ImageLink-CSharp.png)](https://github.com/stars/ShonHarsh/lists/csharp)[![Design - Affinity](Data/Images/ImageLink-Design.png)](https://github.com/stars/ShonHarsh/lists/design)[![Exercism](Data/Images/ImageLink-Exercism.png)](https://github.com/stars/ShonHarsh/lists/exercism)[![FSharp](Data/Images/ImageLink-FSharp.png)](https://github.com/stars/ShonHarsh/lists/fsharp)[![Game](Data/Images/ImageLink-Games.png)](https://github.com/stars/ShonHarsh/lists/games)[![Git & GitHub](Data/Images/ImageLink-Git.png)](https://github.com/stars/ShonHarsh/lists/git-git-website)[![LINQ](Data/Images/ImageLink-LINQ.png)](https://github.com/stars/ShonHarsh/lists/linq)[![Open Source](Data/Images/ImageLink-OpenSource.png)](https://github.com/stars/ShonHarsh/lists/open-source)[![Rust](Data/Images/ImageLink-Rust.png)](https://github.com/stars/ShonHarsh/lists/rust)[![UiPath Automation Developer Associate](Data/Images/ImageLink-UiPath-AutomationDeveloperAssociate.png)]()[![UiPath Automation Developer Professional](Data/Images/ImageLink-UiPath-AutomationDeveloperProfessional.png)]()[![UiPath Automation Explorer](Data/Images/ImageLink-UiPath-AutomationExplorer.png)]()[![UiPath Automation Test Engineer](Data/Images/ImageLink-UiPath-AutomationTestEngineer.png)]()[![UiPath Library](Data/Images/ImageLink-UiPath-LibraryTools.png)](https://github.com/stars/ShonHarsh/lists/uipath-library)[![UiPath RPA Developer Foundation C#](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-CSharp.png)](https://github.com/stars/ShonHarsh/lists/rpa-developer-foundation-c)[![UiPath RPA Developer Foundation VB](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-VB.png)](https://github.com/stars/ShonHarsh/lists/rpa-developer-foundation-vb)[![UiPath RPA Developer Foundation Windows Legacy](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-WindowsLegacy.png)](https://github.com/stars/ShonHarsh/lists/rpa-developer-foundation-legacy)[![UiPath RPA Developer Foundation](Data/Images/ImageLink-UiPath-RPADeveloperFoundation.png)](Data/Images/ImageLink-UiPath-RPADeveloperFoundation.png)[![Windows Powershell](Data/Images/ImageLink-WindowsPowerShell.png)](https://github.com/stars/ShonHarsh/lists/windows-powershell)[![World Wide Web](Data/Images/ImageLink-Web.png)](https://github.com/stars/ShonHarsh/lists/world-wide-web)
+[![Code Exercises](Data/Images/ImageLink-CodeExercises.png)](https://github.com/stars/ShonHarsh/lists/code-exercises)
+[![Common Lisp](Data/Images/ImageLink-CommonLisp.png)](https://github.com/stars/ShonHarsh/lists/common-lisp)
+[![CSharp](Data/Images/ImageLink-CSharp.png)](https://github.com/stars/ShonHarsh/lists/csharp)
+[![Design - Affinity](Data/Images/ImageLink-Design.png)](https://github.com/stars/ShonHarsh/lists/design)
+[![Exercism](Data/Images/ImageLink-Exercism.png)](https://github.com/stars/ShonHarsh/lists/exercism)
+[![FSharp](Data/Images/ImageLink-FSharp.png)](https://github.com/stars/ShonHarsh/lists/fsharp)
+[![Game](Data/Images/ImageLink-Games.png)](https://github.com/stars/ShonHarsh/lists/games)
+[![Git & GitHub](Data/Images/ImageLink-Git.png)](https://github.com/stars/ShonHarsh/lists/git-git-website)
+[![LINQ](Data/Images/ImageLink-LINQ.png)](https://github.com/stars/ShonHarsh/lists/linq)
+[![Open Source](Data/Images/ImageLink-OpenSource.png)](https://github.com/stars/ShonHarsh/lists/open-source)
+[![Rust](Data/Images/ImageLink-Rust.png)](https://github.com/stars/ShonHarsh/lists/rust)
+[![UiPath Automation Developer Associate](Data/Images/ImageLink-UiPath-AutomationDeveloperAssociate.png)]()
+[![UiPath Automation Developer Professional](Data/Images/ImageLink-UiPath-AutomationDeveloperProfessional.png)]()
+[![UiPath Automation Explorer](Data/Images/ImageLink-UiPath-AutomationExplorer.png)]()
+[![UiPath Automation Test Engineer](Data/Images/ImageLink-UiPath-AutomationTestEngineer.png)]()
+[![UiPath Library Tools](Data/Images/ImageLink-UiPath-LibraryTools.png)](https://github.com/stars/ShonHarsh/lists/uipath-library)
+[![UiPath RPA Developer Professional C#](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-CSharp.png)](https://github.com/stars/ShonHarsh/lists/rpa-developer-foundation-c)
+[![UiPath RPA Developer Professional VB](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-VB.png)](https://github.com/stars/ShonHarsh/lists/rpa-developer-foundation-vb)
+[![UiPath RPA Developer Professional Windows Legacy](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-WindowsLegacy.png)](https://github.com/stars/ShonHarsh/lists/rpa-developer-foundation-legacy)
+[![UiPath RPA Developer Professional](Data/Images/ImageLink-UiPath-RPADeveloperFoundation.png)](Data/Images/ImageLink-UiPath-RPADeveloperFoundation.png)
+[![Web](Data/Images/ImageLink-Web.png)](https://github.com/stars/ShonHarsh/lists/world-wide-web)
+[![Windows Powershell](Data/Images/ImageLink-WindowsPowerShell.png)](https://github.com/stars/ShonHarsh/lists/windows-powershell)
