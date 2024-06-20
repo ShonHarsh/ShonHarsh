@@ -13,14 +13,14 @@ supplements and projects in this repository in both C# and VB.NET.
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shonharsh&show_icons=true&theme=dark#gh-dark-mode-only)](https://bit.ly/m/shon)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shonharsh&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)](https://bit.ly/m/shon)
 
-> [!NOTE]
+> [!WARNING]
 > [![Views](https://visitcount.itsvg.in/api?id=ShonHarsh&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 > [!IMPORTANT]
 > ✉️ [Contact me](https://bit.ly/m/shon) if you have a request, question, or
  comments.  Please reach out and lets connect!
 
-> [!WARNING]
+> [!NOTE]
 > **Code Lists**
 
 [![Code Exercises](Data/Images/ImageLink-CodeExercises.png)](https://github.com/stars/ShonHarsh/lists/code-exercises)
@@ -34,6 +34,12 @@ supplements and projects in this repository in both C# and VB.NET.
 [![LINQ](Data/Images/ImageLink-LINQ.png)](https://github.com/stars/ShonHarsh/lists/linq)
 [![Open Source](Data/Images/ImageLink-OpenSource.png)](https://github.com/stars/ShonHarsh/lists/open-source)
 [![Rust](Data/Images/ImageLink-Rust.png)](https://github.com/stars/ShonHarsh/lists/rust)
+[![Web](Data/Images/ImageLink-Web.png)](https://github.com/stars/ShonHarsh/lists/world-wide-web)
+[![Windows Powershell](Data/Images/ImageLink-WindowsPowerShell.png)](https://github.com/stars/ShonHarsh/lists/windows-powershell)
+
+> [!NOTE]
+> **UiPath**
+
 [![UiPath Automation Developer Associate](Data/Images/ImageLink-UiPath-AutomationDeveloperAssociate.png)]()
 [![UiPath Automation Developer Professional](Data/Images/ImageLink-UiPath-AutomationDeveloperProfessional.png)]()
 [![UiPath Automation Explorer](Data/Images/ImageLink-UiPath-AutomationExplorer.png)]()
@@ -43,5 +49,3 @@ supplements and projects in this repository in both C# and VB.NET.
 [![UiPath RPA Developer Professional VB](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-VB.png)](https://github.com/stars/ShonHarsh/lists/rpa-developer-foundation-vb)
 [![UiPath RPA Developer Professional Windows Legacy](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-WindowsLegacy.png)](https://github.com/stars/ShonHarsh/lists/rpa-developer-foundation-legacy)
 [![UiPath RPA Developer Professional](Data/Images/ImageLink-UiPath-RPADeveloperFoundation.png)](Data/Images/ImageLink-UiPath-RPADeveloperFoundation.png)
-[![Web](Data/Images/ImageLink-Web.png)](https://github.com/stars/ShonHarsh/lists/world-wide-web)
-[![Windows Powershell](Data/Images/ImageLink-WindowsPowerShell.png)](https://github.com/stars/ShonHarsh/lists/windows-powershell)
