@@ -45,13 +45,3 @@ supplements and projects in this repository in both C# and VB.NET.
 [![UiPath RPA Developer Professional](Data/Images/ImageLink-UiPath-RPADeveloperFoundation.png)](Data/Images/ImageLink-UiPath-RPADeveloperFoundation.png)
 [![Web](Data/Images/ImageLink-Web.png)](https://github.com/stars/ShonHarsh/lists/world-wide-web)
 [![Windows Powershell](Data/Images/ImageLink-WindowsPowerShell.png)](https://github.com/stars/ShonHarsh/lists/windows-powershell)
-
-
-# Image Testing 100x275
-
-![SpaceTest01](Data/Images/ImageLink-Default.png)
-![SpaceTest02](Data/Images/ImageLink-Default.png)
-![SpaceTest03](Data/Images/ImageLink-Default.png)
-![SpaceTest04](Data/Images/ImageLink-Default.png)
-![SpaceTest05](Data/Images/ImageLink-Default.png)
-![SpaceTest06](Data/Images/ImageLink-Default.png)
