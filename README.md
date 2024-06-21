@@ -8,18 +8,12 @@ supplements and projects in this repository in both C# and VB.NET.
    </span>
 </h5>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shonharsh&show_icons=true&theme=dark#gh-dark-mode-only)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shonharsh&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" alt="Top Languages" height="195" />
-
-> [!WARNING]
-> [![Views](https://visitcount.itsvg.in/api?id=ShonHarsh&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shonharsh&show_icons=true&theme=dark#gh-dark-mode-only)](https://bit.ly/m/shon)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shonharsh&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" alt="Top Languages" height="195" />](https://bit.ly/m/shon)
 
 > [!IMPORTANT]
 > ✉️ [Contact me](https://bit.ly/m/shon) if you have a request, question, or
  comments.  Please reach out and lets connect!
-
-> [!NOTE]
-> **Code Lists**
 
 [![Code Exercises](Data/Images/ImageLink-CodeExercises.png)](https://github.com/stars/ShonHarsh/lists/code-exercises)
 [![Common Lisp](Data/Images/ImageLink-CommonLisp.png)](https://github.com/stars/ShonHarsh/lists/common-lisp)
@@ -35,9 +29,6 @@ supplements and projects in this repository in both C# and VB.NET.
 [![Web](Data/Images/ImageLink-Web.png)](https://github.com/stars/ShonHarsh/lists/world-wide-web)
 [![Windows Powershell](Data/Images/ImageLink-WindowsPowerShell.png)](https://github.com/stars/ShonHarsh/lists/windows-powershell)
 
-> [!NOTE]
-> **UiPath**
-
 [![UiPath Automation Developer Associate](Data/Images/ImageLink-UiPath-AutomationDeveloperAssociate.png)](https://github.com/stars/ShonHarsh/lists/uipath-automation-dev-associate)
 [![UiPath Automation Developer Professional](Data/Images/ImageLink-UiPath-AutomationDeveloperProfessional.png)](https://github.com/stars/ShonHarsh/lists/uipath-developer-professional)
 [![UiPath Automation Explorer](Data/Images/ImageLink-UiPath-AutomationExplorer.png)](https://github.com/stars/ShonHarsh/lists/uipath-automation-explorer)
@@ -47,3 +38,5 @@ supplements and projects in this repository in both C# and VB.NET.
 [![UiPath RPA Developer Professional VB](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-VB.png)](https://github.com/stars/ShonHarsh/lists/rpa-developer-foundation-vb)
 [![UiPath RPA Developer Professional Windows Legacy](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-WindowsLegacy.png)](https://github.com/stars/ShonHarsh/lists/rpa-developer-foundation-legacy)
 [![UiPath RPA Developer Professional](Data/Images/ImageLink-UiPath-RPADeveloperFoundation.png)](Data/Images/ImageLink-UiPath-RPADeveloperFoundation.png)
+
+[![Views](https://visitcount.itsvg.in/api?id=ShonHarsh&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
