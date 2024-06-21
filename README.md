@@ -9,9 +9,8 @@ supplements and projects in this repository in both C# and VB.NET.
 </h5>
 
 <br />
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shonharsh&show_icons=true&theme=dark#gh-dark-mode-only)](https://bit.ly/m/shon)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shonharsh&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)](https://bit.ly/m/shon)
+<img height=190 width=460 src="https://github-readme-stats.vercel.app/api?username=shonharsh&show_icons=true&theme=dark#gh-dark-mode-only" alt="Statistics" />
+<img height=190 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shonharsh&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" alt="Top Languages" />
 
 > [!WARNING]
 > [![Views](https://visitcount.itsvg.in/api?id=ShonHarsh&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
@@ -44,7 +43,7 @@ supplements and projects in this repository in both C# and VB.NET.
 [![UiPath Automation Developer Professional](Data/Images/ImageLink-UiPath-AutomationDeveloperProfessional.png)](https://github.com/stars/ShonHarsh/lists/uipath-developer-professional)
 [![UiPath Automation Explorer](Data/Images/ImageLink-UiPath-AutomationExplorer.png)](https://github.com/stars/ShonHarsh/lists/uipath-automation-explorer)
 [![UiPath Automation Test Engineer](Data/Images/ImageLink-UiPath-AutomationTestEngineer.png)](https://github.com/stars/ShonHarsh/lists/uipath-automation-test-engineer)
-[![UiPath Library Tools](Data/Images/ImageLink-UiPath-LibraryTools.png)](https://github.com/stars/ShonHarsh/lists/uipath-library)
+[![UiPath Library Tools](Data/Images/ImageLink-UiPath-LibraryTools.png)](https://github.com/stars/ShonHarsh/lists/uipath-library-tools)
 [![UiPath RPA Developer Professional C#](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-CSharp.png)](https://github.com/stars/ShonHarsh/lists/rpa-developer-foundation-c)
 [![UiPath RPA Developer Professional VB](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-VB.png)](https://github.com/stars/ShonHarsh/lists/rpa-developer-foundation-vb)
 [![UiPath RPA Developer Professional Windows Legacy](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-WindowsLegacy.png)](https://github.com/stars/ShonHarsh/lists/rpa-developer-foundation-legacy)
