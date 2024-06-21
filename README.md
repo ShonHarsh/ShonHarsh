@@ -35,7 +35,7 @@ supplements and projects in this repository in both C# and VB.NET.
 [![UiPath Automation Test Engineer](Data/Images/ImageLink-UiPath-AutomationTestEngineer.png)](https://github.com/stars/ShonHarsh/lists/uipath-automation-test-engineer)
 [![UiPath Library Tools](Data/Images/ImageLink-UiPath-LibraryTools.png)](https://github.com/stars/ShonHarsh/lists/uipath-library-tools)
 [![UiPath RPA Developer Professional C#](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-CSharp.png)](https://github.com/stars/ShonHarsh/lists/uipath-rpa-dev-foundation-c)
-[![UiPath RPA Developer Professional VB](https://github.com/stars/ShonHarsh/lists/uipath-rpa-dev-foundation-vb)
+[![UiPath RPA Developer Professional VB](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-VB.png)](https://github.com/stars/ShonHarsh/lists/uipath-rpa-dev-foundation-vb)
 [![UiPath RPA Developer Professional Windows Legacy](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-WindowsLegacy.png)](https://github.com/stars/ShonHarsh/lists/uipath-rpa-dev-foundation-legacy)
 [![UiPath RPA Developer Professional](Data/Images/ImageLink-UiPath-RPADeveloperFoundation.png)](https://github.com/stars/ShonHarsh/lists/uipath-dev-professional)
 
