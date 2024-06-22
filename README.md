@@ -15,6 +15,7 @@ supplements and projects in this repository in both C# and VB.NET.
 > ✉️ [Contact me](https://bit.ly/m/shon) if you have a request, question, or
  comments.  Please reach out and lets connect!
 
+[![AWS](Data/Images/ImageLink-AWS.png)](https://github.com/stars/ShonHarsh/lists/amazon-web-services)
 [![Code Exercises](Data/Images/ImageLink-CodeExercises.png)](https://github.com/stars/ShonHarsh/lists/code-exercises)
 [![Common Lisp](Data/Images/ImageLink-CommonLisp.png)](https://github.com/stars/ShonHarsh/lists/common-lisp)
 [![CSharp](Data/Images/ImageLink-CSharp.png)](https://github.com/stars/ShonHarsh/lists/csharp)
@@ -25,6 +26,7 @@ supplements and projects in this repository in both C# and VB.NET.
 [![Git & GitHub](Data/Images/ImageLink-Git.png)](https://github.com/stars/ShonHarsh/lists/git-github)
 [![LINQ](Data/Images/ImageLink-LINQ.png)](https://github.com/stars/ShonHarsh/lists/linq)
 [![Open Source](Data/Images/ImageLink-OpenSource.png)](https://github.com/stars/ShonHarsh/lists/open-source)
+[![Python](Data/Images/ImageLink-Python.png)](https://github.com/stars/ShonHarsh/lists/python)
 [![Rust](Data/Images/ImageLink-Rust.png)](https://github.com/stars/ShonHarsh/lists/rust)
 [![Web](Data/Images/ImageLink-Web.png)](https://github.com/stars/ShonHarsh/lists/world-wide-web)
 [![Windows Powershell](Data/Images/ImageLink-WindowsPowerShell.png)](https://github.com/stars/ShonHarsh/lists/windows-powershell)
