@@ -4,12 +4,17 @@ Hello, I love ☕coffee and 🌶️spicy food. There are many RPA training
 supplements and projects in this repository in both C# and VB.NET.
 
  <h5>
-   <span style="color: #CCCCCC;">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." ― Martin Fowler
+   <span style="color: #CCCCCC;">"Reading code is harder than writing it." ― Trisha Gee
    </span>
 </h5>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shonharsh&show_icons=true&theme=dark#gh-dark-mode-only)](https://bit.ly/m/shon)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shonharsh&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" alt="Top Languages" height="195" />](https://bit.ly/m/shon)
+
+<h5>
+  <span style="color: #CCCCCC;">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." ― Martin Fowler
+  </span>
+</h5>
 
 > [!IMPORTANT]
 > ✉️ [Contact me](https://bit.ly/m/shon) if you have a request, question, or
@@ -42,3 +47,13 @@ supplements and projects in this repository in both C# and VB.NET.
 [![UiPath RPA Developer Professional](Data/Images/ImageLink-UiPath-RPADeveloperFoundation.png)](https://github.com/stars/ShonHarsh/lists/uipath-dev-professional)
 
 [![Views](https://visitcount.itsvg.in/api?id=ShonHarsh&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
+### Links
+- [Exercism](https://exercism.org/profiles/ShonHarsh) - Get **really** good at programming.
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - The repository that contains the visual stats widgets for this page.
+- [LinkedIn](https://www.linkedin.com/in/shonharsh/)
+- [Pulsar](https://pulsar-edit.dev/) (Atom Successor) - Used for all my README.md files
+- [Shon Harsh Website](https://shonharsh.github.io/curriculum-vitae/index.html) -  127.0.0.1
+- [This.GitHub](https://github.com/shonharsh) - F5
+- [UiPath Automation Platform](https://www.uipath.com/) - Automation Devliverred
+- [UiPath Studio](https://www.uipath.com/product/studio) - UiPath IDE
