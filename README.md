@@ -37,10 +37,10 @@ supplements and projects in this repository in both C# and VB.NET.
 [![Windows Powershell](Data/Images/ImageLink-WindowsPowerShell.png)](https://github.com/stars/ShonHarsh/lists/windows-powershell)
 
 [![UiPath Automation Developer Associate](Data/Images/ImageLink-UiPath-AutomationDeveloperAssociate.png)](https://github.com/stars/ShonHarsh/lists/uipath-automation-dev-associate)
-[![UiPath Automation Developer Professional](Data/Images/ImageLink-UiPath-AutomationDeveloperProfessional.png)](https://github.com/stars/ShonHarsh/lists/uipath-developer-professional)
+[![UiPath Automation Developer Professional](Data/Images/ImageLink-UiPath-AutomationDeveloperProfessional.png)](https://github.com/stars/ShonHarsh/lists/uipath-dev-professional)
 [![UiPath Automation Explorer](Data/Images/ImageLink-UiPath-AutomationExplorer.png)](https://github.com/stars/ShonHarsh/lists/uipath-automation-explorer)
 [![UiPath Automation Test Engineer](Data/Images/ImageLink-UiPath-AutomationTestEngineer.png)](https://github.com/stars/ShonHarsh/lists/uipath-automation-test-engineer)
-[![UiPath Library Tools](Data/Images/ImageLink-UiPath-LibraryTools.png)](https://github.com/stars/ShonHarsh/lists/uipath-library-tools)
+[![UiPath Library Tools](Data/Images/ImageLink-UiPath-LibraryTools.png)](https://github.com/stars/ShonHarsh/lists/uipath-tools)
 [![UiPath RPA Developer Professional C#](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-CSharp.png)](https://github.com/stars/ShonHarsh/lists/uipath-rpa-dev-foundation-c)
 [![UiPath RPA Developer Professional VB](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-VB.png)](https://github.com/stars/ShonHarsh/lists/uipath-rpa-dev-foundation-vb)
 [![UiPath RPA Developer Professional Windows Legacy](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-WindowsLegacy.png)](https://github.com/stars/ShonHarsh/lists/uipath-rpa-dev-foundation-legacy)
@@ -55,5 +55,5 @@ supplements and projects in this repository in both C# and VB.NET.
 - [Pulsar](https://pulsar-edit.dev/) (Atom Successor) - Used for all my README.md files
 - [Shon Harsh Website](https://shonharsh.github.io/curriculum-vitae/index.html) -  127.0.0.1
 - [This.GitHub](https://github.com/shonharsh) - F5
-- [UiPath Automation Platform](https://www.uipath.com/) - Automation Devliverred
+- [UiPath Automation Platform](https://www.uipath.com/) - Automation Delivered
 - [UiPath Studio](https://www.uipath.com/product/studio) - UiPath IDE
