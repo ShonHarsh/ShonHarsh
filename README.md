@@ -1,24 +1,17 @@
-![Hello](Data/Images/Hello-Banner.png)
+# Hello World!
 
-Hello, I love ☕coffee and 🌶️spicy food. There are many RPA training
-supplements and projects in this repository in both C# and VB.NET.
+## About Me
 
- <h5>
-   <span style="color: #CCCCCC;">"Reading code is harder than writing it." ― Trisha Gee
-   </span>
-</h5>
+I am a developer that is passionate about building robots to automate software, API transactions, and anything else that sparks my curiosity. I also have a love for ☕ coffee and 🌶️ spicy food.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shonharsh&show_icons=true&theme=dark#gh-dark-mode-only)](https://bit.ly/m/shon)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shonharsh&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" alt="Top Languages" height="195" />](https://bit.ly/m/shon)
-
-<h5>
-  <span style="color: #CCCCCC;">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." ― Martin Fowler
-  </span>
-</h5>
+There are many RPA training supplements and projects in this repository in both C# and VB.NET.
 
 > [!IMPORTANT]
 > ✉️ [Contact me](https://bit.ly/m/shon) if you have a request, question, or
- comments.  Please reach out and lets connect!
+> comments. Please reach out and lets connect!
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shonharsh&show_icons=true&theme=dark#gh-dark-mode-only)](https://bit.ly/m/shon)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shonharsh&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" alt="Top Languages" height="195" />](https://bit.ly/m/shon)
 
 [![AWS](Data/Images/ImageLink-AWS.png)](https://github.com/stars/ShonHarsh/lists/amazon-web-services)
 [![Code Exercises](Data/Images/ImageLink-CodeExercises.png)](https://github.com/stars/ShonHarsh/lists/code-exercises)
@@ -36,6 +29,8 @@ supplements and projects in this repository in both C# and VB.NET.
 [![Web](Data/Images/ImageLink-Web.png)](https://github.com/stars/ShonHarsh/lists/world-wide-web)
 [![Windows Powershell](Data/Images/ImageLink-WindowsPowerShell.png)](https://github.com/stars/ShonHarsh/lists/windows-powershell)
 
+![Hello](Data/Images/Hello-Banner.png)
+
 [![UiPath Automation Developer Associate](Data/Images/ImageLink-UiPath-AutomationDeveloperAssociate.png)](https://github.com/stars/ShonHarsh/lists/uipath-automation-dev-associate)
 [![UiPath Automation Developer Professional](Data/Images/ImageLink-UiPath-AutomationDeveloperProfessional.png)](https://github.com/stars/ShonHarsh/lists/uipath-dev-professional)
 [![UiPath Automation Explorer](Data/Images/ImageLink-UiPath-AutomationExplorer.png)](https://github.com/stars/ShonHarsh/lists/uipath-automation-explorer)
@@ -46,14 +41,23 @@ supplements and projects in this repository in both C# and VB.NET.
 [![UiPath RPA Developer Professional Windows Legacy](Data/Images/ImageLink-UiPath-RPADeveloperFoundation-WindowsLegacy.png)](https://github.com/stars/ShonHarsh/lists/uipath-rpa-dev-foundation-legacy)
 [![UiPath RPA Developer Professional](Data/Images/ImageLink-UiPath-RPADeveloperFoundation.png)](https://github.com/stars/ShonHarsh/lists/uipath-dev-professional)
 
-[![Views](https://visitcount.itsvg.in/api?id=ShonHarsh&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
+## Musings
+
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." ― Martin Fowler  
+"Reading code is harder than writing it." ― Trisha Geev
+
+## The Past Year's Journey
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ShonHarsh/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ShonHarsh/repos?time_range=one_year&group=other&theme=dark)](https://githubtrends.io)
 
 ### Links
+
 - [Exercism](https://exercism.org/profiles/ShonHarsh) - Get **really** good at programming.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - The repository that contains the visual stats widgets for this page.
 - [LinkedIn](https://www.linkedin.com/in/shonharsh/)
-- [Pulsar](https://pulsar-edit.dev/) (Atom Successor) - Used for all my README.md files
-- [Shon Harsh Website](https://shonharsh.github.io/curriculum-vitae/index.html) -  127.0.0.1
+- [Shon Harsh Website](https://shonharsh.github.io/curriculum-vitae/index.html) - 127.0.0.1
 - [This.GitHub](https://github.com/shonharsh) - F5
 - [UiPath Automation Platform](https://www.uipath.com/) - Automation Delivered
 - [UiPath Studio](https://www.uipath.com/product/studio) - UiPath IDE
+- [Visual Studio Code](https://code.visualstudio.com/) - Learn it, use it, love it!
