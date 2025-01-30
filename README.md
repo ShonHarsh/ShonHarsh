@@ -31,6 +31,8 @@ There are many RPA training supplements and projects in this repository in both 
 
 ![Hello](Data/Images/Hello-Banner.png)
 
+I have been reswizzeling all of these repositories. Some are a WIP and others still being published.
+
 [![UiPath Automation Developer Associate](Data/Images/ImageLink-UiPath-AutomationDeveloperAssociate.png)](https://github.com/stars/ShonHarsh/lists/uipath-automation-dev-associate)
 [![UiPath Automation Developer Professional](Data/Images/ImageLink-UiPath-AutomationDeveloperProfessional.png)](https://github.com/stars/ShonHarsh/lists/uipath-dev-professional)
 [![UiPath Automation Explorer](Data/Images/ImageLink-UiPath-AutomationExplorer.png)](https://github.com/stars/ShonHarsh/lists/uipath-automation-explorer)
