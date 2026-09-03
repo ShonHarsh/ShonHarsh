@@ -48,7 +48,7 @@ I have been reswizzeling all of these repositories. Some are a WIP and others st
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - The repository that contains the visual stats widgets for this page.
 - [LinkedIn](https://www.linkedin.com/in/shonharsh/)
 - [Shon Harsh Website](https://shonharsh.github.io/curriculum-vitae/index.html) - 127.0.0.1
-- [Shon Bit]((https://bit.ly/m/shon)
+- [Shon Bit](https://bit.ly/m/shon)
 - [This.GitHub](https://github.com/shonharsh) - F5
 - [UiPath Automation Platform](https://www.uipath.com/) - Automation Delivered
 - [UiPath Studio](https://www.uipath.com/product/studio) - UiPath IDE
